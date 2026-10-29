@@ -10,7 +10,7 @@
 
 ## 安装
 1. 浏览器安装 [Tampermonkey](https://www.tampermonkey.net/)
-2. 点击安装：[starry-luogu.user.js](https://raw.githubusercontent.com/你的用户名/starry-luogu/main/starry-luogu.user.js)
+2. 点击安装：[starry-luogu.user.js](https://raw.githubusercontent.com/Starry-Embrace/starry-luogu/main/starry-luogu.user.js)
 
 ## 使用
 打开洛谷任意页面 → 左侧菜单底部 "STARRY 洛谷设置" → 填写背景图 URL → 保存。
